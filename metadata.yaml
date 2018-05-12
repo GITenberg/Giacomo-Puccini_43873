@@ -1,0 +1,26 @@
+_repo: Giacomo-Puccini_43873
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43873-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dry, Wakeling
+    gutenberg_agent_id: '42448'
+    url: http://www.gutenberg.org/2009/agents/42448
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2013-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Living masters of music
+subjects:
+- !lcsh 'Puccini, Giacomo, 1858-1924'
+- !lcc 'ML'
+title: Giacomo Puccini
+url: http://www.gutenberg.org/ebooks/43873
